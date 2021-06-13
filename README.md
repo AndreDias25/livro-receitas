@@ -3,4 +3,5 @@
 Olá! Bem vindo ao seu livro de receitas! :cookie:
 
 - Pizza de atum
-- Whatever
+- Pizza de queijo
+- Pizza de carne seca
